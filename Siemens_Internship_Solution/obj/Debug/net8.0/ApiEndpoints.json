@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Siemens.Internship2026.GradeBook.Controllers.GradesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Grades",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Siemens.Internship2026.GradeBook.Controllers.GradesController",
+    "Method": "GetById",
+    "RelativePath": "api/Grades/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
