@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Teo\\Desktop\\Siemens\\Siemens.Internship2026.GradeBook.csproj",
+      "projectUniqueName": "C:\\Users\\Teo\\Desktop\\Siemens_Internship_Solution\\Siemens.Internship2026.GradeBook.csproj",
       "projectName": "Siemens.Internship2026.GradeBook",
-      "projectPath": "C:\\Users\\Teo\\Desktop\\Siemens\\Siemens.Internship2026.GradeBook.csproj",
+      "projectPath": "C:\\Users\\Teo\\Desktop\\Siemens_Internship_Solution\\Siemens.Internship2026.GradeBook.csproj",
       "packagesPath": "C:\\Users\\Teo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Teo\\Desktop\\Siemens\\obj\\",
+      "outputPath": "C:\\Users\\Teo\\Desktop\\Siemens_Internship_Solution\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
